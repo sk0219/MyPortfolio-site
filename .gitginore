@@ -1,0 +1,7 @@
+myvenv
+db.sqlite3
+.vscode
+__pycahe__
+*.pyc
+.DS_Store
+media
